@@ -1,0 +1,8 @@
+a = int(input("enter the number:"))
+b = int(input("enter the number:"))
+print("sum of the numbers is",a+b)
+print("sub of the numbers is",a-b)
+print("multiplication of the numbers is",a*b)
+print("integer division of the numbers is",a//b)
+print("division of the numbers is",a/b)
+print("power of the numbers is",a**b)
